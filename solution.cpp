@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 
 #define MAX_N 500000
 
