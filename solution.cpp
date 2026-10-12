@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int MAX_N = 500000;
+#define MAX_N 500000
 
 class ElevatorSystem {
 private:
